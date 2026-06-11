@@ -1,0 +1,14 @@
+# Swift / SPM build artifacts
+.build/
+*.app/
+
+# macOS
+.DS_Store
+
+# Xcode (if opened there later)
+*.xcodeproj/
+.swiftpm/
+DerivedData/
+
+# icon intermediates (icns만 커밋)
+icon/AppIcon.iconset/
